@@ -122,6 +122,7 @@ print(x_single_prediction)
 
 ![Screenshot 2024-05-05 114103](https://github.com/vasundrasriravi/NN-Project-Based-Experiment/assets/119393983/02da2296-13c6-43f1-ab86-4aab772c3ac7)
 
+![Screenshot 2024-05-05 114147](https://github.com/vasundrasriravi/NN-Project-Based-Experiment/assets/119393983/5ffb6f7d-5a01-4a35-a656-d3ae2857486a)
 
 
 ![Screenshot 2024-05-05 114222](https://github.com/vasundrasriravi/NN-Project-Based-Experiment/assets/119393983/74565afc-bc24-4015-8cec-65e5195b86a7)
